@@ -43,4 +43,4 @@ Esse projeto visa o uso de tecnologias do mercado e a aplicação dos conhecimen
 
 Com isso, a API já pode ser testada utilizando algum software terceiro, como por exemplo o ReqBin, Insomnia ou Postman.
 
-> Miguel Ferreira
+> Miguel Laurentino
